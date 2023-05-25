@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+
+    <string name="imagen">Imagen</string>
+    <string name="order">Ordenar</string>
+    <string name="show_order">Ver ordenes</string>
+
+    <string name="seleccionar">Seleccione su orden</string>
+    <string name="restaurante">El Buen Sazón</string>
+    <string name="entrada">Entradas</string>
+    <string name="entretiempo">Entretiempos</string>
+    <string name="plato_fuerte">Comidas</string>
+    <string name="bebida">Bebidas</string>
+
+    <string name="day_soup">Sopa del dia</string>
+    <string name="azteca_soup">Sopa azteca</string>
+    <string name="mushroom_soup">Sopa de hongos</string>
+
+    <string name="arroz">Arroz a la mexicana</string>
+    <string name="coditos">Coditos a la crema</string>
+
+    <string name="entree">Plato fuerte</string>
+    <string name="enchiladas">Enchiladas</string>
+    <string name="grilled_beef">Carne asada</string>
+    <string name="filled_chillis">Chile relleno</string>
+
+
+    <string name="beverages">Bebidas</string>
+    <string name="day_water">Agua del dia</string>
+    <string name="soda">Refresco</string>
+</resources>

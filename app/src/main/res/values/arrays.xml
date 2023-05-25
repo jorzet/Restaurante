@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Entradas">
+        <item>Sopa del dia</item>
+        <item>Sopa azteca</item>
+        <item>Consome de pollo</item>
+        <item>Consome de barbacoa</item>
+        <item>Sopa del dia</item>
+    </string-array>
+    <string-array name="Entretiempo">
+        <item>Sopecitos</item>
+        <item>Arroz frito</item>
+        <item>Frijoles con totopos</item>
+    </string-array>
+    <string-array name="Plato_fuerte">
+        <item>Chilaquiles</item>
+        <item>Filete de pescado</item>
+        <item>Hamburguesa</item>
+    </string-array>
+    <string-array name="Bebidas">
+        <item>Agua del dia</item>
+        <item>Limonada</item>
+        <item>Naranjada</item>
+        <item>Cerbeza de barril</item>
+        <item>Refresco</item>
+    </string-array>
+    <string-array name="comidas">
+        <item>Entradas</item>
+        <item>Entretiempos</item>
+        <item>Plato fuertes</item>
+        <item>Bebidas</item>
+    </string-array>
+</resources>
